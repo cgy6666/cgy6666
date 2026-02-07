@@ -8,18 +8,17 @@
 
 ---
 
-<!-- 第一行：现代/跨平台栈 -->
-![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<!-- Miku 专属配色方案 -->
+![](https://img.shields.io/badge/Flutter-36BCF7?style=flat-square&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Dart-262A55?style=flat-square&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/Python-36BCF7?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Linux-262A55?style=flat-square&logo=linux&logoColor=white)
 
-<!-- 第二行：硬核/微软栈 (重点!) -->
-![](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/C%23-262A55?style=flat-square&logo=csharp&logoColor=white)
+![](https://img.shields.io/badge/C++-36BCF7?style=flat-square&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Windows-262A55?style=flat-square&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/VS_Code-36BCF7?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=vscode)
 
 <!-- 联系方式 -->
 [![](https://img.shields.io/badge/Bilibili-FB7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/504202744)
