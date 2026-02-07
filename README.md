@@ -1,31 +1,27 @@
-<table>
-  <tr>
-    <td width="60%" valign="center">
-      <h2 align="left">Hi there, I'm Linkium ❤</h2>
-      <p>
-        <strong>Grade 7 Student</strong> | <strong>Flutter Developer</strong> | <strong>HAM Operator</strong>
-      </p>
-      <p>
-        Coding in the <i>digital void</i> with an X99 rig. <br>
-        Trying to build things that look as good as they run.
-      </p>
-      <br>
-      <!-- 统一色调的徽章 -->
-      <img src="https://img.shields.io/badge/Flutter-39C5BB?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-2F80ED?style=flat-square&logo=dart&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
-      <br><br>
-      <a href="https://space.bilibili.com/504202744">
-        <img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" height="25" />
-      </a>
-      <a href="mailto:linkium.workspace@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Me-black?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
-      </a>
-    </td>
-    <td width="40%" align="center">
-      <!-- 极简半透明统计卡片 -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Linkium-suki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&hide=stars" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### Hi there, I'm Linkium ❤
+
+**Grade 7 Student** | **Full-Stack Developer** | **HAM Operator**
+<br>
+*Coding in the digital void with an X99 rig.*
+
+---
+
+<!-- 第一行：现代/跨平台栈 -->
+![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<!-- 第二行：硬核/微软栈 (重点!) -->
+![](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+
+<!-- 联系方式 -->
+[![](https://img.shields.io/badge/Bilibili-FB7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/504202744)
+[![](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:linkium.workspace@gmail.com)
+
+</div>
