@@ -1,10 +1,10 @@
 <div align="center">
 
-### Hi there, I'm Linkium ❤
+### Hi there, I'm cgy ❤
 
-**Grade 7 Student** | **Full-Stack Developer** | **HAM Operator**
+**Grade 6 Student** | **Full-Stack Developer** | **Luogu user**
 <br>
-*Coding in the digital void with an X99 rig.*
+*Coding in the digital void with an M1010 rig.*
 
 ---
 
@@ -22,8 +22,8 @@
 ![](https://img.shields.io/badge/Visual_Studio-39C5BB?style=flat-square&logo=visual-studio&logoColor=white)
 
 
-<!-- 联系方式：保持 B站 粉色 (Miku的朋友) -->
+<!-- 联系方式：保持 B站 粉色 (cgy的朋友) -->
 [![](https://img.shields.io/badge/Bilibili-FB7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/504202744)
-[![](https://img.shields.io/badge/Email-FB7299?style=flat-square&logo=gmail&logoColor=white)](mailto:linkium.workspace@gmail.com)
+[![](https://img.shields.io/badge/Email-FB7299?style=flat-square&logo=gmail&logoColor=white)](mailto:2304342691@qq.com)
 
 </div>
