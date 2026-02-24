@@ -25,5 +25,6 @@
 <!-- 联系方式：保持 B站 粉色 (cgy的朋友) -->
 [![](https://img.shields.io/badge/Bilibili-FB7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3461570543749429)
 [![](https://img.shields.io/badge/Email-FB7299?style=flat-square&logo=gmail&logoColor=white)](mailto:2304342691@qq.com)
+[![](https://img.shields.io/badge/Luogu-FB7299?style=flat-square&logo=luogu&logoColor=white)](https://www.luogu.com.cn/user/1048914)
 
 </div>
