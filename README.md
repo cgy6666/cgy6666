@@ -2,7 +2,7 @@
 
 ### Hi there, I'm cgy ❤
 
-**Grade 6 Student** | **Full-Stack Developer** | **Luogu user**
+**Grade 7 Student** | **Full-Stack Developer** | **Luogu user**
 <br>
 *Coding in the digital void with an M1010 rig.*
 
